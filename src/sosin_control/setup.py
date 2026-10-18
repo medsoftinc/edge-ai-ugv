@@ -25,6 +25,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'acik_dongu_kare = sosin_control.acik_dongu_kare:main',
             'ileri_git = sosin_control.ileri_git:main',
             'merhaba = sosin_control.merhaba:main',
         ],
