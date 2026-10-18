@@ -25,6 +25,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'kapali_dongu_kare = sosin_control.kapali_dongu_kare:main',
             'konum_oku = sosin_control.konum_oku:main',
             'acik_dongu_kare = sosin_control.acik_dongu_kare:main',
             'ileri_git = sosin_control.ileri_git:main',
