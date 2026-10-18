@@ -25,6 +25,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'ileri_git = sosin_control.ileri_git:main',
             'merhaba = sosin_control.merhaba:main',
         ],
     },
