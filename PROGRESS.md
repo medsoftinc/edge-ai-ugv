@@ -10,3 +10,4 @@
 | 012 | 2026-10-21 | First Python node: `scripts/ilk_dugum.py` prints the drone's altitude live |
 | 013–014 | 2026-10-21 | Offboard + arm from code; drone takes off to 5 m and hovers (`scripts/kalkis.py`) |
 | 015 | 2026-10-21 | Fly to a point from code: hover at 5 m, then go 10 m north (`scripts/nokta.py`) |
+| 016 | 2026-10-21 | Search motion from code: hover at 5 m and rotate in place (`scripts/arama.py`) |
