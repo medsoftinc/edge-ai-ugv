@@ -9,3 +9,4 @@
 | 011 | 2026-10-21 | Built `px4_msgs` (release/1.17); read live odometry from ROS 2 (z ≈ -2.97 m after takeoff, NED frame) |
 | 012 | 2026-10-21 | First Python node: `scripts/ilk_dugum.py` prints the drone's altitude live |
 | 013–014 | 2026-10-21 | Offboard + arm from code; drone takes off to 5 m and hovers (`scripts/kalkis.py`) |
+| 013–014 | 2026-10-21 | Offboard + arm from code; drone takes off to 5 m and hovers (`scripts/kalkis.py`) |
